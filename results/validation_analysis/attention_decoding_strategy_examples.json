@@ -1,0 +1,57 @@
+[
+  {
+    "id": "13817023",
+    "dialogue": "A: Hi Tom, are you busy tomorrow’s afternoon?\nB: I’m pretty sure I am. What’s up?\nA: Can you go with me to the animal shelter?.\nB: What do you want to do?\nA: I want to get a puppy for my son.\nB: That will make him so happy.\nA: Yeah, we’ve discussed it many times. I think he’s ready now.\nB: That’s good. Raising a dog is a tough issue. Like having a baby ;-) \nA: I'll get him one of those little dogs.\nB: One that won't grow up too big;-)\nA: And eat too much;-))\nB: Do you know which one he would like?\nA: Oh, yes, I took him there last Monday. He showed me one that he really liked.\nB: I bet you had to drag him away.\nA: He wanted to take it home right away ;-).\nB: I wonder what he'll name it.\nA: He said he’d name it after his dead hamster – Lemmy  - he's  a great Motorhead fan :-)))",
+    "reference_summary": "A will go to the animal shelter tomorrow to get a puppy for her son. They already visited the shelter last Monday and the son chose the puppy. ",
+    "vanilla_greedy": "the last episode of the new year's eve is broken. she's going to be there in a few days.",
+    "vanilla_beam_3": "mike is looking for a new job. she's going to be there.",
+    "vanilla_beam_5": "mike is looking for a new job. she's not sure if she's not sure if she's not sure if she's not sure if she's not sure if she's going to the party.",
+    "attention_greedy": "tom's going to go to the movies with cathy.",
+    "attention_beam_3": "tom's going to go to the movies with cathy.",
+    "attention_beam_5": "tom's going to go to the laundromat."
+  },
+  {
+    "id": "13716628",
+    "dialogue": "Emma: I’ve just fallen in love with this advent calendar! Awesome! I wanna one for my kids!\nRob: I used to get one every year as a child! Loved them! \nEmma: Yeah, i remember! they were filled with chocolates!\nLauren: they are different these days! much more sophisticated! Haha!\nRob: yeah, they can be fabric/ wooden, shop bought/ homemade, filled with various stuff\nEmma: what do you fit inside?\nLauren: small toys, Christmas decorations, creative stuff, hair bands & clips, stickers, pencils & rubbers, small puzzles, sweets\nEmma: WOW! That’s brill! X\nLauren: i add one more very special thing as well- little notes asking my children to do something nice for someone else\nRob: i like that! My sister adds notes asking her kids questions about christmas such as What did the 3 wise men bring? etc\nLauren: i reckon it prepares them for Christmas \nEmma: and makes it more about traditions and being kind to other people\nLauren: my children get very excited every time they get one!\nEmma: i can see why! :)",
+    "reference_summary": "Emma and Rob love the advent calendar. Lauren fits inside calendar various items, for instance, small toys and Christmas decorations. Her children are excited whenever they get the calendar.",
+    "vanilla_greedy": "mike is going to the party with her parents. she's going to the party.",
+    "vanilla_beam_3": "mike is looking for a new job. she's not sure if she's not sure if she's going to the party.",
+    "vanilla_beam_5": "mike is looking for a new job. she's not sure if it's too expensive.",
+    "attention_greedy": "emma has a lot of money for christmas. lauren and lauren will meet with lauren for christmas.",
+    "attention_beam_3": "emma has a lot of money for christmas. she's going to meet with her sister.",
+    "attention_beam_5": "emma has a lot of money for christmas. she's going to meet with her sister."
+  },
+  {
+    "id": "13829420",
+    "dialogue": "Jackie: Madison is pregnant\nJackie: but she doesn't wanna talk about it\nIggy: why\nJackie: I don't know why because she doesn't wanna talk about it\nIggy: ok\nJackie: I wanted to prepare you for it because people get super excited and ask lots of questions\nJackie: and she looked way more anxious than excited\nIggy: she's probably worrying about it\nIggy: she's taking every commitment really seriously\nJackie: it could be money problems or relationship problems\nIggy: or maybe she wants an abortion\nJackie: it could be all of the above\nIggy: but you know what?\nIggy: once my friend was pregnant and I couldn't bring myself to be happy about it\nJackie: why?\nIggy: I felt they were immature and I couldn't picture this couple as parents\nJackie: I felt similar way on Patricia's wedding\nIggy: Patricia Stevens?\nJackie: yes\nIggy: so we're talking about the same person\nJackie: what a coincidence\nJackie: so she's pregnant?\nIggy: she thought she was\nJackie: damn...",
+    "reference_summary": "Madison is pregnant but she doesn't want to talk about it. Patricia Stevens got married and she thought she was pregnant. ",
+    "vanilla_greedy": "the party is on the weekend. she's going to the party. she's going to the party.",
+    "vanilla_beam_3": "mike is looking for a new job. she's going to be there in an hour.",
+    "vanilla_beam_5": "mike is looking for a new job. she's going to be there in an hour.",
+    "attention_greedy": "jackie has a wedding planner. she's getting married.",
+    "attention_beam_3": "jackie's wedding is getting married. she's getting married.",
+    "attention_beam_5": "jackie's wedding is getting married."
+  },
+  {
+    "id": "13819648",
+    "dialogue": "Marla: <file_photo>\nMarla: look what I found under my bed\nKiki: lol\nTamara: is that someone's underwear?\nMarla: it certainly isn't mine, my ass is big but it isn't huge\nKiki: it looks like male underwear\nTamara: not necessarily, maybe some butch had fun in your room while you were gone\nMarla: ok but how can you leave your underwear after hooking up? wtf is wrong with people\nKiki: she or he could be too wasted to notice\nTamara: or maybe someone put their pants there to piss you off\nMarla: that makes no sense\nMarla: it's so fucking childish\nKiki: if it's childish then it must have been your sister's idea\nMarla: she's 13, she doesn't have underwear that isn't pink\nTamara: maybe it belonged to one of your exes?\nKiki: she would have recognized it\nMarla: lol we're doing total CSI investigation on one pair of boxers :D\nKiki: <file_gif>\nTamara: lol\nTamara: I think your sister convinced someone to put their underwear in your room as a dare\nMarla: sounds legit\nKiki: Tamara, you just cracked the case!\nTamara: <file_gif>\nTamara: always happy to help",
+    "reference_summary": "Marla found a pair of boxers under her bed.",
+    "vanilla_greedy": "the new year's eve is broken. she's going to a doctor.",
+    "vanilla_beam_3": "mike is looking for a new job. she's going to the party.",
+    "vanilla_beam_5": "mike is looking for a new job. she's not sure if she's not sure if it's too expensive.",
+    "attention_greedy": "marla is looking for her birthday. tamara is tamara with her cat. tamara is tamara with her.",
+    "attention_beam_3": "it's snowing in a room. tamara and tamara think it's too risky.",
+    "attention_beam_5": "it's snowing in a room. tamara likes tamara's stuff."
+  },
+  {
+    "id": "13728448",
+    "dialogue": "Robert: Hey give me the address of this music shop you mentioned before\nRobert: I have to buy guitar cable\nFred: <file_other>\nFred: Catch it on google maps\nRobert: thx m8\nFred: ur welcome",
+    "reference_summary": "Robert wants Fred to send him the address of the music shop as he needs to buy guitar cable.",
+    "vanilla_greedy": "the party is on the way to the airport.",
+    "vanilla_beam_3": "it's snowing.",
+    "vanilla_beam_5": "it's raining heavily.",
+    "attention_greedy": "robert will buy a 4g of the shop shop at fred's request.",
+    "attention_beam_3": "robert wants to buy a shop of the shop shop. fred will buy fred.",
+    "attention_beam_5": "robert wants to buy a shop shop at the shop shop."
+  }
+]

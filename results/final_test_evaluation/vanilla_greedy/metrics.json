@@ -1,0 +1,13 @@
+{
+  "rouge_1": 0.12333423903103471,
+  "rouge_2": 0.013140081505210609,
+  "rouge_l": 0.10751364030610168,
+  "generated_length_mean": 13.601953601953602,
+  "generated_length_median": 13,
+  "reference_length_mean": 23.61782661782662,
+  "reference_length_median": 22,
+  "generated_eos_percent": 99.75579975579976,
+  "hit_max_generation_length_percent": 0.2442002442002442,
+  "decoding_seconds_total": 1.561417499993695,
+  "decoding_milliseconds_per_example": 1.9064926739849755
+}

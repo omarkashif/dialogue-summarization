@@ -1,0 +1,88 @@
+{
+  "length_normalization": {
+    "formula": "sum_log_probability / ((5 + generated_length) / 6) ** alpha",
+    "alpha": 0.6,
+    "generated_length_includes_eos": true,
+    "sos_excluded": true
+  },
+  "rows": [
+    {
+      "model": "Vanilla",
+      "decoding": "greedy",
+      "rouge_1": 0.13207215723944837,
+      "rouge_2": 0.014313460009344194,
+      "rouge_l": 0.11512594594911879,
+      "mean_generated_length": 13.17726161369193,
+      "median_generated_length": 12.0,
+      "eos_percent": 99.63325183374083,
+      "hit_max_length_percent": 0.36674816625916873,
+      "decoding_seconds_total": 1.738858099997742,
+      "decoding_milliseconds_per_example": 2.125743398530247
+    },
+    {
+      "model": "Vanilla",
+      "decoding": "beam-3",
+      "rouge_1": 0.13143145887147661,
+      "rouge_2": 0.01866958060861984,
+      "rouge_l": 0.10852799080625411,
+      "mean_generated_length": 12.62713936430318,
+      "median_generated_length": 10.0,
+      "eos_percent": 99.87775061124694,
+      "hit_max_length_percent": 0.12224938875305623,
+      "decoding_seconds_total": 52.52754599999753,
+      "decoding_milliseconds_per_example": 64.21460391197742
+    },
+    {
+      "model": "Vanilla",
+      "decoding": "beam-5",
+      "rouge_1": 0.11738805468434099,
+      "rouge_2": 0.018597958764896366,
+      "rouge_l": 0.09946229717988098,
+      "mean_generated_length": 11.71760391198044,
+      "median_generated_length": 8.0,
+      "eos_percent": 100,
+      "hit_max_length_percent": 0,
+      "decoding_seconds_total": 87.53534360000049,
+      "decoding_milliseconds_per_example": 107.01142249388813
+    },
+    {
+      "model": "Attention",
+      "decoding": "greedy",
+      "rouge_1": 0.28278707880334286,
+      "rouge_2": 0.07816116749774639,
+      "rouge_l": 0.2381197404515683,
+      "mean_generated_length": 15.7200488997555,
+      "median_generated_length": 13.0,
+      "eos_percent": 96.69926650366747,
+      "hit_max_length_percent": 3.3007334963325183,
+      "decoding_seconds_total": 3.2444321000002674,
+      "decoding_milliseconds_per_example": 3.9662984107582733
+    },
+    {
+      "model": "Attention",
+      "decoding": "beam-3",
+      "rouge_1": 0.2705812499261479,
+      "rouge_2": 0.08004708576041224,
+      "rouge_l": 0.23315580625032895,
+      "mean_generated_length": 12.407090464547677,
+      "median_generated_length": 10.0,
+      "eos_percent": 98.53300733496333,
+      "hit_max_length_percent": 1.466992665036675,
+      "decoding_seconds_total": 69.9015535000035,
+      "decoding_milliseconds_per_example": 85.45422188264487
+    },
+    {
+      "model": "Attention",
+      "decoding": "beam-5",
+      "rouge_1": 0.2671846365951686,
+      "rouge_2": 0.07914045749265936,
+      "rouge_l": 0.23177196669289885,
+      "mean_generated_length": 11.625916870415647,
+      "median_generated_length": 10.0,
+      "eos_percent": 98.65525672371638,
+      "hit_max_length_percent": 1.3447432762836184,
+      "decoding_seconds_total": 98.45028860000093,
+      "decoding_milliseconds_per_example": 120.35487603912094
+    }
+  ]
+}

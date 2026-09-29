@@ -38,3 +38,7 @@ data/
 
 # Misc
 *.log
+*.pdf
+*.jsonl
+report/
+

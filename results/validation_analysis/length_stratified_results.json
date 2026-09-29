@@ -1,0 +1,43 @@
+{
+  "boundaries": {
+    "short_max_source_tokens": 71,
+    "medium_max_source_tokens": 149,
+    "definition": "stored model-source token length, including <SOS> and <EOS> after truncation",
+    "method": "training-only empirical tercile order statistics at ranks ceil(n/3) and ceil(2n/3)"
+  },
+  "rows": [
+    {
+      "length_group": "short",
+      "validation_examples": 291,
+      "mean_source_token_length": 46.577319587628864,
+      "vanilla_rouge_1": 0.11632369679428847,
+      "vanilla_rouge_2": 0.010841677699119682,
+      "vanilla_rouge_l": 0.10621441110005594,
+      "attention_rouge_1": 0.3184276365452898,
+      "attention_rouge_2": 0.0959078355077343,
+      "attention_rouge_l": 0.28229229475656675
+    },
+    {
+      "length_group": "medium",
+      "validation_examples": 262,
+      "mean_source_token_length": 105.41221374045801,
+      "vanilla_rouge_1": 0.13357077324505795,
+      "vanilla_rouge_2": 0.01658247871701471,
+      "vanilla_rouge_l": 0.11758293732712718,
+      "attention_rouge_1": 0.26886506388272274,
+      "attention_rouge_2": 0.07687681025220333,
+      "attention_rouge_l": 0.22654491582351474
+    },
+    {
+      "length_group": "long",
+      "validation_examples": 265,
+      "mean_source_token_length": 221.65660377358492,
+      "vanilla_rouge_1": 0.14648423590170484,
+      "vanilla_rouge_2": 0.01564716215661371,
+      "vanilla_rouge_l": 0.12103229379614998,
+      "attention_rouge_1": 0.2569204315369991,
+      "attention_rouge_2": 0.05980449759144433,
+      "attention_rouge_l": 0.1998168360961491
+    }
+  ]
+}

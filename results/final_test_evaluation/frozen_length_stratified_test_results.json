@@ -1,0 +1,43 @@
+{
+  "frozen_boundaries": {
+    "short_max_source_tokens": 71,
+    "medium_max_source_tokens": 149,
+    "definition": "stored model source length including <SOS> and <EOS>",
+    "derived_from": "training-only validation-analysis protocol"
+  },
+  "rows": [
+    {
+      "length_group": "short",
+      "mean_source_token_length": 47.38970588235294,
+      "vanilla_rouge_1": 0.10421502093589619,
+      "vanilla_rouge_2": 0.009538988905224564,
+      "vanilla_rouge_l": 0.09793065746556628,
+      "attention_rouge_1": 0.32752250210457606,
+      "attention_rouge_2": 0.11069892996400318,
+      "attention_rouge_l": 0.290462880780047,
+      "test_examples": 272
+    },
+    {
+      "length_group": "medium",
+      "mean_source_token_length": 107.82671480144404,
+      "vanilla_rouge_1": 0.12442642221659042,
+      "vanilla_rouge_2": 0.014226205586364036,
+      "vanilla_rouge_l": 0.1098415530856739,
+      "attention_rouge_1": 0.27616329132438316,
+      "attention_rouge_2": 0.0697305831108558,
+      "attention_rouge_l": 0.23235106558101137,
+      "test_examples": 277
+    },
+    {
+      "length_group": "long",
+      "mean_source_token_length": 229.07407407407408,
+      "vanilla_rouge_1": 0.14072788026314878,
+      "vanilla_rouge_2": 0.01562862805121635,
+      "vanilla_rouge_l": 0.11424412807757539,
+      "attention_rouge_1": 0.24587670234295855,
+      "attention_rouge_2": 0.0576280425307109,
+      "attention_rouge_l": 0.1945774633468777,
+      "test_examples": 270
+    }
+  ]
+}

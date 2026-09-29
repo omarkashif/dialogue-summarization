@@ -1,0 +1,23 @@
+[
+  {
+    "id": "13731412",
+    "length_group": "short",
+    "source_content_token_length": 15,
+    "generated_summary": "the weather is ready for christmas.",
+    "figure": "results\\validation_analysis\\figures\\attention_heatmap_1_13731412.png"
+  },
+  {
+    "id": "13862235",
+    "length_group": "medium",
+    "source_content_token_length": 70,
+    "generated_summary": "bella and james are going to meet at the new place.",
+    "figure": "results\\validation_analysis\\figures\\attention_heatmap_2_13862235.png"
+  },
+  {
+    "id": "13681310",
+    "length_group": "short",
+    "source_content_token_length": 63,
+    "generated_summary": "diana's brother has been hacked since he's not getting better.",
+    "figure": "results\\validation_analysis\\figures\\attention_heatmap_3_13681310.png"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "13817023",
+    "dialogue": "A: Hi Tom, are you busy tomorrow’s afternoon?\nB: I’m pretty sure I am. What’s up?\nA: Can you go with me to the animal shelter?.\nB: What do you want to do?\nA: I want to get a puppy for my son.\nB: That will make him so happy.\nA: Yeah, we’ve discussed it many times. I think he’s ready now.\nB: That’s good. Raising a dog is a tough issue. Like having a baby ;-) \nA: I'll get him one of those little dogs.\nB: One that won't grow up too big;-)\nA: And eat too much;-))\nB: Do you know which one he would like?\nA: Oh, yes, I took him there last Monday. He showed me one that he really liked.\nB: I bet you had to drag him away.\nA: He wanted to take it home right away ;-).\nB: I wonder what he'll name it.\nA: He said he’d name it after his dead hamster – Lemmy  - he's  a great Motorhead fan :-)))",
+    "reference_summary": "A will go to the animal shelter tomorrow to get a puppy for her son. They already visited the shelter last Monday and the son chose the puppy. ",
+    "vanilla_greedy": "the last episode of the new year's eve is broken. she's going to be there in a few days.",
+    "vanilla_beam_3": "mike is looking for a new job. she's going to be there.",
+    "vanilla_beam_5": "mike is looking for a new job. she's not sure if she's not sure if she's not sure if she's not sure if she's not sure if she's going to the party.",
+    "attention_greedy": "tom's going to go to the movies with cathy.",
+    "attention_beam_3": "tom's going to go to the movies with cathy.",
+    "attention_beam_5": "tom's going to go to the laundromat."
+  },
+  {
+    "id": "13716628",
+    "dialogue": "Emma: I’ve just fallen in love with this advent calendar! Awesome! I wanna one for my kids!\nRob: I used to get one every year as a child! Loved them! \nEmma: Yeah, i remember! they were filled with chocolates!\nLauren: they are different these days! much more sophisticated! Haha!\nRob: yeah, they can be fabric/ wooden, shop bought/ homemade, filled with various stuff\nEmma: what do you fit inside?\nLauren: small toys, Christmas decorations, creative stuff, hair bands & clips, stickers, pencils & rubbers, small puzzles, sweets\nEmma: WOW! That’s brill! X\nLauren: i add one more very special thing as well- little notes asking my children to do something nice for someone else\nRob: i like that! My sister adds notes asking her kids questions about christmas such as What did the 3 wise men bring? etc\nLauren: i reckon it prepares them for Christmas \nEmma: and makes it more about traditions and being kind to other people\nLauren: my children get very excited every time they get one!\nEmma: i can see why! :)",
+    "reference_summary": "Emma and Rob love the advent calendar. Lauren fits inside calendar various items, for instance, small toys and Christmas decorations. Her children are excited whenever they get the calendar.",
+    "vanilla_greedy": "mike is going to the party with her parents. she's going to the party.",
+    "vanilla_beam_3": "mike is looking for a new job. she's not sure if she's not sure if she's going to the party.",
+    "vanilla_beam_5": "mike is looking for a new job. she's not sure if it's too expensive.",
+    "attention_greedy": "emma has a lot of money for christmas. lauren and lauren will meet with lauren for christmas.",
+    "attention_beam_3": "emma has a lot of money for christmas. she's going to meet with her sister.",
+    "attention_beam_5": "emma has a lot of money for christmas. she's going to meet with her sister."
+  },
+  {
+    "id": "13829420",
+    "dialogue": "Jackie: Madison is pregnant\nJackie: but she doesn't wanna talk about it\nIggy: why\nJackie: I don't know why because she doesn't wanna talk about it\nIggy: ok\nJackie: I wanted to prepare you for it because people get super excited and ask lots of questions\nJackie: and she looked way more anxious than excited\nIggy: she's probably worrying about it\nIggy: she's taking every commitment really seriously\nJackie: it could be money problems or relationship problems\nIggy: or maybe she wants an abortion\nJackie: it could be all of the above\nIggy: but you know what?\nIggy: once my friend was pregnant and I couldn't bring myself to be happy about it\nJackie: why?\nIggy: I felt they were immature and I couldn't picture this couple as parents\nJackie: I felt similar way on Patricia's wedding\nIggy: Patricia Stevens?\nJackie: yes\nIggy: so we're talking about the same person\nJackie: what a coincidence\nJackie: so she's pregnant?\nIggy: she thought she was\nJackie: damn...",
+    "reference_summary": "Madison is pregnant but she doesn't want to talk about it. Patricia Stevens got married and she thought she was pregnant. ",
+    "vanilla_greedy": "the party is on the weekend. she's going to the party. she's going to the party.",
+    "vanilla_beam_3": "mike is looking for a new job. she's going to be there in an hour.",
+    "vanilla_beam_5": "mike is looking for a new job. she's going to be there in an hour.",
+    "attention_greedy": "jackie has a wedding planner. she's getting married.",
+    "attention_beam_3": "jackie's wedding is getting married. she's getting married.",
+    "attention_beam_5": "jackie's wedding is getting married."
+  },
+  {
+    "id": "13819648",
+    "dialogue": "Marla: <file_photo>\nMarla: look what I found under my bed\nKiki: lol\nTamara: is that someone's underwear?\nMarla: it certainly isn't mine, my ass is big but it isn't huge\nKiki: it looks like male underwear\nTamara: not necessarily, maybe some butch had fun in your room while you were gone\nMarla: ok but how can you leave your underwear after hooking up? wtf is wrong with people\nKiki: she or he could be too wasted to notice\nTamara: or maybe someone put their pants there to piss you off\nMarla: that makes no sense\nMarla: it's so fucking childish\nKiki: if it's childish then it must have been your sister's idea\nMarla: she's 13, she doesn't have underwear that isn't pink\nTamara: maybe it belonged to one of your exes?\nKiki: she would have recognized it\nMarla: lol we're doing total CSI investigation on one pair of boxers :D\nKiki: <file_gif>\nTamara: lol\nTamara: I think your sister convinced someone to put their underwear in your room as a dare\nMarla: sounds legit\nKiki: Tamara, you just cracked the case!\nTamara: <file_gif>\nTamara: always happy to help",
+    "reference_summary": "Marla found a pair of boxers under her bed.",
+    "vanilla_greedy": "the new year's eve is broken. she's going to a doctor.",
+    "vanilla_beam_3": "mike is looking for a new job. she's going to the party.",
+    "vanilla_beam_5": "mike is looking for a new job. she's not sure if she's not sure if it's too expensive.",
+    "attention_greedy": "marla is looking for her birthday. tamara is tamara with her cat. tamara is tamara with her.",
+    "attention_beam_3": "it's snowing in a room. tamara and tamara think it's too risky.",
+    "attention_beam_5": "it's snowing in a room. tamara likes tamara's stuff."
+  },
+  {
+    "id": "13728448",
+    "dialogue": "Robert: Hey give me the address of this music shop you mentioned before\nRobert: I have to buy guitar cable\nFred: <file_other>\nFred: Catch it on google maps\nRobert: thx m8\nFred: ur welcome",
+    "reference_summary": "Robert wants Fred to send him the address of the music shop as he needs to buy guitar cable.",
+    "vanilla_greedy": "the party is on the way to the airport.",
+    "vanilla_beam_3": "it's snowing.",
+    "vanilla_beam_5": "it's raining heavily.",
+    "attention_greedy": "robert will buy a 4g of the shop shop at fred's request.",
+    "attention_beam_3": "robert wants to buy a shop of the shop shop. fred will buy fred.",
+    "attention_beam_5": "robert wants to buy a shop shop at the shop shop."
+  },
+  {
+    "id": "13727903",
+    "dialogue": "Poppy: I literally cannot think any more today!\nAlice: Yeah, I'm in the same shape. What a long day!\nPoppy: Lunch went by in a flash because I had errands, which makes the day so slow!\nAlice: I didn't get lunch, so that's even worse!\nPoppy: Oh, poor you! Aren't you starving?\nAlice: I'll live. Only three more hours!\nPoppy: LOL! Not that you're counting...\nAlice: Damn straight I'm counting! LOL!\nPoppy: Well, I'm def going for drinks after work. Want to join?\nAlice: Who else is there?\nPoppy: Nobody yet but I was going to put the word out.\nAlice: Sure, sounds fun. I'll invite some people up here if that's okay?\nPoppy: Oh, got your eye on anyone?\nAlice: Fred!\nPoppy: Fred? Really?\nAlice: Sure, why not? He's single, my age and not bad looking.\nPoppy: He's a dork!\nAlice: But a cute one!\nPoppy: If you say so. Not my type!\nAlice: That's a relief!\nPoppy: He's all yours!\nAlice: Good. So I'll invite him and a bunch of others. See you at Nick's?\nPoppy: Perfect. About 5:30.\nAlice: Great!\nPoppy: Can't wait! So ready for a beer!\nAlice: GnT for me!",
+    "reference_summary": "Poppy and Alice are meeting for drinks after work at Nick's at 5:30. Alice fancies Fred, she will invite him and a bunch of other coworkers.",
+    "vanilla_greedy": "the party is on the weekend. she will be there in the evening.",
+    "vanilla_beam_3": "mike is looking for a new job. she's going to be there in an hour.",
+    "vanilla_beam_5": "it's snowing, but she's not sure if she's not sure if she's not sure if she's going to the party.",
+    "attention_greedy": "poppy and poppy are going to meet in the same time. they will meet at the same time.",
+    "attention_beam_3": "poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy and",
+    "attention_beam_5": "poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy, poppy and"
+  },
+  {
+    "id": "13821290",
+    "dialogue": "Luigi: Geez, Mayweather totally destroyed McGregor! Did you watch gentlemen??\nLorenzo: I'm not very much into boxing, rather prefer MMA but the buzz about this fight made me watch it\nLorenzo: And yeah, the black guy seemed to be only defending himself for a few rounds but at the same time Conor lost much of his stamina\nPablo: Whatta hell are you two talking about??\nPablo: McGregor and boxing?? He's an mma warrior, those R 2 different worlds! Wtf\nPablo: And Mayweather?? He's fuckin 40, he's to fuckin old to fight!\nLuigi: Hahaha Pablito :D\nLuigi: You follow UFC events and you know mcgregor's a freak and likes to provoke people\nPablo: Aight but those R people from mma that he provokes, not from fuckin boxing!\nPablo: He's fuckin one unpredictable piece of bastard\nLorenzo: You better watch your mouth Pablo cause if Conor finds out what you're sayin, you'll be the next xD\nPablo: Sheit dudes, that's a fuckin nonsense\nPablo: But anyway... Mayweather won, you've said that. And McGregor? Was he sharp?\nLuigi: He was, actually I was surprised cause he was fighting pretty well for 5 maybe 6 rounds\nLuigi: Floyd had to keep his guard up and seemed to have little chances cuz the Irishman was attacking again an again\nLuigi: But you know, Floyd is an old bird and all this time he was waiting for Conor to get tired and you know the rest :)\nPablo: Experience bitch, he beat 'The Notorious' thanks to his fuckin experience!\nLuigi: No doubt about it, bro\nLorenzo: But you know, Mcgregor's never fought 10 rounds, in MMA 3 rounds is the limit\nPablo: True\nLorenzo: So what if they agreed for a rematch on the mma rules?? :)\nPablo: Duuuuuude\nPablo: Conor would destroy him, no doubt\nLuigi: Who knows, maybe they've been planning two differnt fights, who knows :)\nPablo: Hope so, I'm goin to fuckin wait for the fight even if it would be at 4 am\nLorenzo: Good old Pablo... I love your temperament you son of a bitch\nPablo: Yeah, you're not the first bitch to say that\nLuigi: Lol xD",
+    "reference_summary": "Mayweather beat McGregor in a boxing match.",
+    "vanilla_greedy": "the new year's eve is broken. she's going to a doctor.",
+    "vanilla_beam_3": "mike is looking for a new job. she's going to the party.",
+    "vanilla_beam_5": "it's raining heavily. she's looking for a new job.",
+    "attention_greedy": "the video newton is not going to watch a horror movie. he has a lot of work to watch a lot.",
+    "attention_beam_3": "there is a lot of fun of blessidy's favourite show.",
+    "attention_beam_5": "there is a lot of fun of blessidy's favourite show."
+  },
+  {
+    "id": "13717185",
+    "dialogue": "Kyle: Who wants to go out for a drink?\nMegan: No, sorry, I'm cleaning the house today.\nRoseanne: You've always loved cleaning, haven't you? I remember how angry you used to get with your brother for leaving a mess in the kitchen.\nVince: Yeah, she'd always yell at me, even though I was the one in charge when our parents were away.\nKyle: I don't get why it matters so much whether I clean my flat once a week or once a month. No one died from a bit of dust.\nMegan: Remind me to never stay at your place :P\nRoseanne: I'm somewhere in between. My house is always a mess, but I hate it when it's dirty.\nVince: What's the difference?\nRoseanne: I can't stand when there's dust, crumbs on the floor etc., so I clean regularly. But I love it when all my stuff just lies around. When I put everything back on shelves or into cabinets, I keep on getting mad that I have to look for it, get up and take it out, and generally lose so much time. I like to have everything within my reach.\nVince: There's no better wardrobe than the armchair, right? XD\nKyle: I prefer the floor. There's more space on it :D\nMegan: Just reading this gives me the creeps.\nKyle: Fine, go back to cleaning, we'll think of you while sharing a beer :D\nRoseanne: Hey, I never said I can come. My hubby's away this weekend, so I have no one to leave the kids with ;(\nVince: Take them to Megan's place, they can help her clean :D\nMegan: You know what? I don't care. I can watch your kids, Roseanne. Just bring them over.\nRoseanne: But are you serious or just mad at us?\nMegan: No, I'm serious. I like your kids. And they're nice enough that if I ask them to do something, they actually do it :D\nRoseanne: LOL, okay. Actually, I think that when I tell them to go and help aunt Meg with cleaning, they'll think it's fun.\nVince: And when you tell them to clean their own rooms, they say you're a monster? :D\nRoseanne: Exactly. But Bill for example always cleans the windows at my parents house. They don't even need to ask anymore, he simply knows it's his job.\nKyle: Do they pay him? :P\nRoseanne: Well, sometimes. But still I think he likes doing it. I don't know, maybe it's because no one checks if he did it well, he's just left alone to do his thing, so he feels like a man in the house in a way?\nMegan: Tell them I can pay with cookies if they help me.\nRoseanne: The famous chocolate cookies?\nMegan: Why not? I'm feeling generous today :D\nRoseanne: Guys, I think I'm gonna change my mind about that beer. Meg, would you accept one more helper? :D\nMegan: You're always welcome! But sorry boys, it's going to be a “girls only” event (except for little Billy). Otherwise my house will never get cleaned today :D",
+    "reference_summary": "Roseanne wanted to go out for a beer with Kyle and Vince, and leave her kids with Megan.  Megan will clean the house and give Roseanne's kids her famous chocolate cookies if they help, what made Roseanne change her mind, and she wants to join them.",
+    "vanilla_greedy": "the party is on the way to the party. he's going to be there in the evening. he will be there in the evening.",
+    "vanilla_beam_3": "mike is looking for a new job. she's going to be there in a few days. she's going to be there in 2 weeks.",
+    "vanilla_beam_5": "it's snowing, so she's going to the party tonight.",
+    "attention_greedy": "megan will go to a house with her brother, who is a bit ill.",
+    "attention_beam_3": "megan is going to a house for a long time.",
+    "attention_beam_5": "megan is going out for a drink with his brother. she's going to go out with her brother."
+  },
+  {
+    "id": "13862374",
+    "dialogue": "Stefy: how is you new home - sweet home?\nLena: home but sweet? i'm not sure!\nStefy: have you finish to open all your boxes?\nLena: there is still a full bunch of them in the yard\nStefy: i'll be happy to give you a hand, but i'm a bit far away...\nLena: Kids help me\nStefy: is it bigger than your previous flat?\nLena: it's a house, so it's seem bigger, but there is no built-in closets\nStefy: good opportunity to sort out.\nLena: for sure. But now i'd like to have a rest. I'm fed up\nStefy: enjoy the garden!\nLena: Full south and a big tree in the middle hiding the sun all day. Do you believe it?\nStefy: <file_photo>\nStefy: you and me next month\nLena: yes, a real garden with only flowers and no trees.\nLena: remind me to bring the deckchairs\nStefy: you won't need them?\nLena: i told you: no sun and neighbours a bit too close\nStefy: invite them for tea 🤣\nLena: no way, they're too old and very noisy.\nLena: i hope they stop making noise at night\nStefy: you should move away...\nLena: it was a mistake to choose this house. But there were no choice😰\nStefy: keep hope, and think about next month\nStefy: sun, sea, and martini ....",
+    "reference_summary": "Lena moved in to a new house. Lena's neighbours are old and noisy and Lena is disappointed with her new home. The house does not have built-in closets and there is a big tree in the middle of the garden that is hiding the sun all day. Lena and Stefy will rest at the sea next month.",
+    "vanilla_greedy": "the party is on the weekend. she's going to the party.",
+    "vanilla_beam_3": "it's snowing. she's looking for a new job.",
+    "vanilla_beam_5": "it's snowing. she's looking for a new job.",
+    "attention_greedy": "lena is going to see lena's house. lena is in a house. lena is going to see a house.",
+    "attention_beam_3": "lena has a problem with lena and lena. lena and lena are going to see a house.",
+    "attention_beam_5": "lena and lena are going home tomorrow."
+  },
+  {
+    "id": "13817283",
+    "dialogue": "Sandra: Hey, are you busy this Friday?\nOlivia: hi, no, not really, why? :)\nSandra: Don't laugh at me, but one of my new year resolutions is to learn horse riding.\nOlivia: Wow! Are you serious?\nSandra: What do you think?\nOlivia: Hm, not sure. It sounds really cool, but isn't it dangerous?\nSandra: Well, it can be, yes, but I don't think it's much more dangerous than driving a car.\nSandra: Accidents happen everywhere. I get your point, I was thinking about it as well.\nOlivia: And? Aren't you afraid?\nSandra: A bit, yes, but I always wanted to learn horse riding, so I thought that as soon as it isn't anything that requires me to, I don't know, go abroad or a lot of money, I may at least give it a try.\nOlivia: Makes sense. I'm just worried ;)\nSandra: I know <3 Pity though as I wanted you to join me :>...\nOlivia: Me?!\nSandra: I booked a slot on Friday afternoon after work. So far I booked only one, but I know there some slots left.\nSandra: Sooo... Do you want to join me? :)\nOlivia: What time exactly?\nSandra: We should be there around 5.30, the lesson starts at 6.\nOlivia: Hm... It does sound tempting, but I'm scared :D\nSandra: Come on, Ov. You know, it'd be so much more fun if we go together.\nOlivia: I feel I'm going to regret it, but ok :P How much is it?\nSandra: 20 quid per hour, you spend there always more around two, but pay only for the riding part.",
+    "reference_summary": "Sandra has booked a riding lesson for 20£ an hour on Friday. Olivia will join her at 5:30 and the lesson starts at 6.",
+    "vanilla_greedy": "the party is on the weekend. she will be there in the evening.",
+    "vanilla_beam_3": "mike is looking for a new job. she's going to be there in an hour.",
+    "vanilla_beam_5": "it's snowing, so she's going to the party tonight.",
+    "attention_greedy": "sandra is looking for a new job. olivia will pick up olivia at 6. 30.",
+    "attention_beam_3": "sandra and olivia are going to meet at 6. 30.",
+    "attention_beam_5": "sandra and olivia are going to meet at 6. 30."
+  }
+]
